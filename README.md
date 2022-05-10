@@ -8,5 +8,5 @@
 # On mobile phone 
 ![miniphone](https://user-images.githubusercontent.com/91549722/167650248-75a1fff4-c96d-41a1-b67f-0e52443f38bb.PNG)
 
-#Checkout the live version
+# Checkout the live version
 https://emsunminiproject.netlify.app/
