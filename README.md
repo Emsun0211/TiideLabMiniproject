@@ -7,3 +7,6 @@
 ![miniTab](https://user-images.githubusercontent.com/91549722/167650109-149f1255-77af-4d39-9f80-d6b7bd5547b0.PNG)
 # On mobile phone 
 ![miniphone](https://user-images.githubusercontent.com/91549722/167650248-75a1fff4-c96d-41a1-b67f-0e52443f38bb.PNG)
+
+#Checkout the live version
+https://emsunminiproject.netlify.app/
